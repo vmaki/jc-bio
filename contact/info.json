@@ -1,0 +1,314 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.jc-bio.com/contact",
+            "path": "index.html",
+            "saved": true,
+            "size": 25262,
+            "children": [
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/footer-bg.png",
+                    "path": "img/footer-bg.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/contactImg/banner.jpg",
+                    "path": "img/banner.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/contactImg/contact-icon1.png",
+                    "path": "img/contact-icon1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/contactImg/contact-icon2.png",
+                    "path": "img/contact-icon2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/contactImg/erweima.jpg",
+                    "path": "img/erweima.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/contactImg/map.jpg",
+                    "path": "img/map.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/fly.png",
+                    "path": "img/fly.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/fly1.png",
+                    "path": "img/fly1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/weixin.jpg",
+                    "path": "img/weixin.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/footer-logo.png",
+                    "path": "img/footer-logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 95962,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/swiper.min.js",
+                    "path": "js/swiper.min.js",
+                    "saved": true,
+                    "size": 125616,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8182,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/swiper.animate1.0.3.min.js",
+                    "path": "js/swiper.animate1.0.3.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/aos.js",
+                    "path": "js/aos.js",
+                    "saved": true,
+                    "size": 17276,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/common.js",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://api.map.baidu.com/api?v=2.0&ak=IAIhM7C4GDMKKaKs7i5dSws9ycUpt7Y1",
+                    "saved": false
+                },
+                {
+                    "url": "http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/lizi_particles.min.js",
+                    "path": "js/lizi_particles.min.js",
+                    "saved": true,
+                    "size": 23364,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/lizi_app.js",
+                    "path": "js/lizi_app.js",
+                    "saved": true,
+                    "size": 2816,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/swiper.min.css",
+                    "path": "css/swiper.min.css",
+                    "saved": true,
+                    "size": 19774,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/animate.min.css",
+                    "path": "css/animate.min.css",
+                    "saved": true,
+                    "size": 75776,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 121200,
+                    "children": [
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.eot?#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/css/common.css",
+                    "path": "css/common.css",
+                    "saved": true,
+                    "size": 45523,
+                    "children": [
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.eot?t=1566455825077",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.eot?t=1566455825077#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.woff?t=1566455825077",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.ttf?t=1566455825077",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.svg?t=1566455825077#iconfont",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/css/base.css",
+                    "path": "css/base.css",
+                    "saved": true,
+                    "size": 900,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/css/contact.css",
+                    "path": "css/contact.css",
+                    "saved": true,
+                    "size": 4983,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/aos.css",
+                    "path": "css/aos.css",
+                    "saved": true,
+                    "size": 31567,
+                    "children": []
+                },
+                {
+                    "url": "http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css",
+                    "saved": false
+                },
+                {
+                    "url": "http://www.jc-bio.com/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-jc-bio-com-c1vgh9up",
+    "info": {
+        "remark": [],
+        "title": "联系",
+        "domain": "www.jc-bio.com",
+        "origin": "http://www.jc-bio.com",
+        "ip": "210.16.190.74",
+        "main": "index.html",
+        "url": "http://www.jc-bio.com/contact",
+        "totalSize": "598 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.jc-bio.com/contact",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://www.jc-bio.com/contact",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 28 Oct 2022 02:14:16 GMT",
+                "server": "Apache",
+                "x-frame-options": "SAMEORIGIN",
+                "vary": "Accept-Encoding",
+                "connection": "close",
+                "transfer-encoding": "chunked",
+                "content-type": "text/html; charset=utf-8"
+            }
+        },
+        "time": {
+            "start": "2022-10-28T02:14:15.891Z",
+            "end": "2022-10-28T02:14:22.286Z"
+        }
+    },
+    "options": {
+        "url": "http://www.jc-bio.com/contact",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}

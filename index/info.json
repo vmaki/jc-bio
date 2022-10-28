@@ -1,0 +1,1099 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://www.jc-bio.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 73037,
+            "children": [
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/introduct-bg.jpg",
+                    "path": "img/introduct-bg.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/footer-bg.png",
+                    "path": "img/footer-bg.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/d7c3816355008db1adf69b90bfeb1666.png",
+                    "path": "img/d7c3816355008db1adf69b90bfeb1666.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/phone-swiper.jpg",
+                    "path": "img/phone-swiper.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/swiper1.jpg",
+                    "path": "img/swiper1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/d3175acad46427b61034e50ded306baa.png",
+                    "path": "img/d3175acad46427b61034e50ded306baa.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/cc8ae60d513fff309e0da92691f24813.png",
+                    "path": "img/cc8ae60d513fff309e0da92691f24813.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/rectangle2.png",
+                    "path": "img/rectangle2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/rectangle1.png",
+                    "path": "img/rectangle1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/rectangle1-hover.png",
+                    "path": "img/rectangle1-hover.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/poster.jpg",
+                    "path": "img/poster.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/pause.png",
+                    "path": "img/pause.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/round1.png",
+                    "path": "img/round1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/round2.png",
+                    "path": "img/round2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon1.png",
+                    "path": "img/solution-icon1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon1-hover.png",
+                    "path": "img/solution-icon1-hover.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon2.png",
+                    "path": "img/solution-icon2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon2-hover.png",
+                    "path": "img/solution-icon2-hover.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon3.png",
+                    "path": "img/solution-icon3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon3-hover.png",
+                    "path": "img/solution-icon3-hover.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon4.png",
+                    "path": "img/solution-icon4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/solution-icon4-hover.png",
+                    "path": "img/solution-icon4-hover.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform4.jpg",
+                    "path": "img/platform4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/rectangle3.png",
+                    "path": "img/rectangle3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform5.png",
+                    "path": "img/platform5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform7.jpg",
+                    "path": "img/platform7.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform8.png",
+                    "path": "img/platform8.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform2.jpg",
+                    "path": "img/platform2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform3.png",
+                    "path": "img/platform3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform6.jpg",
+                    "path": "img/platform6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform7.png",
+                    "path": "img/platform7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform3.jpg",
+                    "path": "img/platform3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform4.png",
+                    "path": "img/platform4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform5.jpg",
+                    "path": "img/platform5.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform6.png",
+                    "path": "img/platform6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform1.jpg",
+                    "path": "img/platform1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform2.png",
+                    "path": "img/platform2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon4.png",
+                    "path": "img/platform-icon4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon4-hover.gif",
+                    "path": "img/platform-icon4-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon7.png",
+                    "path": "img/platform-icon7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon7-hover.gif",
+                    "path": "img/platform-icon7-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon2.png",
+                    "path": "img/platform-icon2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon2-hover.gif",
+                    "path": "img/platform-icon2-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon6.png",
+                    "path": "img/platform-icon6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon6-hover.gif",
+                    "path": "img/platform-icon6-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon3.png",
+                    "path": "img/platform-icon3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon3-hover.gif",
+                    "path": "img/platform-icon3-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon5.png",
+                    "path": "img/platform-icon5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon5-hover.gif",
+                    "path": "img/platform-icon5-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon1.png",
+                    "path": "img/platform-icon1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/platform-icon1-hover.gif",
+                    "path": "img/platform-icon1-hover.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/right-arrow.png",
+                    "path": "img/right-arrow.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/left-arrow.png",
+                    "path": "img/left-arrow.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200119/88e442cd63c6caee6d0c99c0e5f44f74.png",
+                    "path": "img/88e442cd63c6caee6d0c99c0e5f44f74.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/calendar.png",
+                    "path": "img/calendar.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/2dd6ede61c7b132f9511ecfc29943418.png",
+                    "path": "img/2dd6ede61c7b132f9511ecfc29943418.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/8e47ada84803525baadeee6d8fe6611f.png",
+                    "path": "img/8e47ada84803525baadeee6d8fe6611f.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/762af773e974bba65656cc48600ebaa4.png",
+                    "path": "img/762af773e974bba65656cc48600ebaa4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190902/9552c50377573fe6c22344dde43a5c04.png",
+                    "path": "img/9552c50377573fe6c22344dde43a5c04.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190902/22129c11fad0d5af4aef5962f6fbcaae.png",
+                    "path": "img/22129c11fad0d5af4aef5962f6fbcaae.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190902/09f435d87f17f2d7e71a3c18be14277a.png",
+                    "path": "img/09f435d87f17f2d7e71a3c18be14277a.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190902/afd06b1e354fd367e0621556d8e2a3ff.png",
+                    "path": "img/afd06b1e354fd367e0621556d8e2a3ff.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/e0961c67d92975eb9596035e2f4c2450.png",
+                    "path": "img/e0961c67d92975eb9596035e2f4c2450.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/bbaf80baa4a1f8280166c6ca88f8c49a.png",
+                    "path": "img/bbaf80baa4a1f8280166c6ca88f8c49a.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/d70e9e92111a9671c479a6f83f41f9da.png",
+                    "path": "img/d70e9e92111a9671c479a6f83f41f9da.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20200118/66907228f01d5c2432b01a498bf9e7b2.png",
+                    "path": "img/66907228f01d5c2432b01a498bf9e7b2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/swiper-item1.jpg",
+                    "path": "img/swiper-item1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/swiper-item2.jpg",
+                    "path": "img/swiper-item2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/swiper-item3.jpg",
+                    "path": "img/swiper-item3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/swiper-item4.jpg",
+                    "path": "img/swiper-item4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/1185170624d95ab8b249fbcf03296bc4.png",
+                    "path": "img/1185170624d95ab8b249fbcf03296bc4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/f99bbfb242e31e59b12257790b0aa425.png",
+                    "path": "img/f99bbfb242e31e59b12257790b0aa425.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/d244df36419cdaa23560ac9956a17f5c.png",
+                    "path": "img/d244df36419cdaa23560ac9956a17f5c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/62b10ef92af0e3527bbf13ca7dd4a0a7.png",
+                    "path": "img/62b10ef92af0e3527bbf13ca7dd4a0a7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/02c161f70845ed4256f6511e8f41bf5e.png",
+                    "path": "img/02c161f70845ed4256f6511e8f41bf5e.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/e607b17d2d3abc4d46cf2c3e129cde98.png",
+                    "path": "img/e607b17d2d3abc4d46cf2c3e129cde98.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/38bdc88cfb924d1e0e056c07c398f64d.png",
+                    "path": "img/38bdc88cfb924d1e0e056c07c398f64d.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/upload/image/20190830/67bd4aeefe215663e84499ed6b8885e5.png",
+                    "path": "img/67bd4aeefe215663e84499ed6b8885e5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource1.png",
+                    "path": "img/resource1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource2.png",
+                    "path": "img/resource2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource3.png",
+                    "path": "img/resource3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource4.png",
+                    "path": "img/resource4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource5.png",
+                    "path": "img/resource5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource6.png",
+                    "path": "img/resource6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource7.png",
+                    "path": "img/resource7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource9.png",
+                    "path": "img/resource9.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource10.png",
+                    "path": "img/resource10.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource11.png",
+                    "path": "img/resource11.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource12.png",
+                    "path": "img/resource12.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource13.png",
+                    "path": "img/resource13.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource14.png",
+                    "path": "img/resource14.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource15.png",
+                    "path": "img/resource15.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource16.png",
+                    "path": "img/resource16.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource17.png",
+                    "path": "img/resource17.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource18.png",
+                    "path": "img/resource18.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource19.png",
+                    "path": "img/resource19.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource20.png",
+                    "path": "img/resource20.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource21.png",
+                    "path": "img/resource21.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource22.png",
+                    "path": "img/resource22.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource23.png",
+                    "path": "img/resource23.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource24.png",
+                    "path": "img/resource24.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource25.png",
+                    "path": "img/resource25.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource26.png",
+                    "path": "img/resource26.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource27.png",
+                    "path": "img/resource27.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource28.png",
+                    "path": "img/resource28.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource29.png",
+                    "path": "img/resource29.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource30.png",
+                    "path": "img/resource30.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource31.png",
+                    "path": "img/resource31.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/resource32.png",
+                    "path": "img/resource32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/video_close3.png",
+                    "path": "img/video_close3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/indexImg/video_close1.png",
+                    "path": "img/video_close1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/fly.png",
+                    "path": "img/fly.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/fly1.png",
+                    "path": "img/fly1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/weixin.jpg",
+                    "path": "img/weixin.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/img/commonImg/footer-logo.png",
+                    "path": "img/footer-logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 95962,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/swiper.min.js",
+                    "path": "js/swiper.min.js",
+                    "saved": true,
+                    "size": 125616,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8182,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/swiper.animate1.0.3.min.js",
+                    "path": "js/swiper.animate1.0.3.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/aos.js",
+                    "path": "js/aos.js",
+                    "saved": true,
+                    "size": 17276,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/common.js",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/index.js",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/video.js",
+                    "path": "js/video.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/lizi_particles.min.js",
+                    "path": "js/lizi_particles.min.js",
+                    "saved": true,
+                    "size": 23364,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/lizi_app.js",
+                    "path": "js/lizi_app.js",
+                    "saved": true,
+                    "size": 2816,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/swiper.min.css",
+                    "path": "css/swiper.min.css",
+                    "saved": true,
+                    "size": 19774,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/animate.min.css",
+                    "path": "css/animate.min.css",
+                    "saved": true,
+                    "size": 75776,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 121200,
+                    "children": [
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.eot",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.eot?#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.woff",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.ttf",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/js/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/css/common.css",
+                    "path": "css/common.css",
+                    "saved": true,
+                    "size": 45523,
+                    "children": [
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.eot?t=1566455825077",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.eot?t=1566455825077#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.woff?t=1566455825077",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.ttf?t=1566455825077",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/css/iconfont.svg?t=1566455825077#iconfont",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/css/base.css",
+                    "path": "css/base.css",
+                    "saved": true,
+                    "size": 900,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/css/index.css",
+                    "path": "css/index.css",
+                    "saved": true,
+                    "size": 53052,
+                    "children": [
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/img/indexImg/arrow-bg.jpg",
+                            "path": "img/arrow-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/img/indexImg/kaishi.png",
+                            "path": "img/kaishi.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/img/indexImg/shenying.png",
+                            "path": "img/shenying.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.jc-bio.com/public/assets/img/indexImg/quanpin.png",
+                            "path": "img/quanpin.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/aos.css",
+                    "path": "css/aos.css",
+                    "saved": true,
+                    "size": 31567,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/js/download/lizi_style.css",
+                    "path": "css/lizi_style.css",
+                    "saved": true,
+                    "size": 1329,
+                    "children": [
+                        {
+                            "url": "http://ww25.mywebsite.com/assets/img/yop.png?subid1=20221024-1755-56b3-8551-f87e6b7171bc",
+                            "path": "img/yop.png",
+                            "saved": true,
+                            "size": 1587,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://www.jc-bio.com/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://www.jc-bio.com/public/assets/video/1.mp4",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "www-jc-bio-com-gf34pmzn",
+    "info": {
+        "remark": [],
+        "title": "首页",
+        "domain": "www.jc-bio.com",
+        "origin": "http://www.jc-bio.com",
+        "ip": "210.16.190.74",
+        "main": "index.html",
+        "url": "http://www.jc-bio.com/",
+        "totalSize": "697 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://www.jc-bio.com/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://www.jc-bio.com/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Mon, 24 Oct 2022 06:55:23 GMT",
+                "server": "Apache",
+                "x-frame-options": "SAMEORIGIN",
+                "vary": "Accept-Encoding",
+                "connection": "close",
+                "transfer-encoding": "chunked",
+                "content-type": "text/html; charset=utf-8"
+            }
+        },
+        "time": {
+            "start": "2022-10-24T06:55:23.267Z",
+            "end": "2022-10-24T06:56:05.471Z"
+        }
+    },
+    "options": {
+        "url": "http://www.jc-bio.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
